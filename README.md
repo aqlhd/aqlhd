@@ -13,4 +13,4 @@
 * Data Structure
 * Software Engineering
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=imabhijee)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aqlhd)
