@@ -1,5 +1,5 @@
 
-# Aqil Ahmad
+# Akil Ahmad
   A living organism!
 
 # **Interests**
